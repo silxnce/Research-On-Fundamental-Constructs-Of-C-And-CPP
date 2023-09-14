@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\MSI Katana\Desktop\project1\project1\ConsoleApplication1\ConsoleApplication1.cpp(10,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MSI Katana\Desktop\project1\project1\ConsoleApplication1\ConsoleApplication1.cpp(47,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MSI Katana\Desktop\project1\project1\ConsoleApplication1\ConsoleApplication1.cpp(49,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MSI Katana\Desktop\project1\project1\ConsoleApplication1\ConsoleApplication1.cpp(51,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MSI Katana\Desktop\project1\project1\ConsoleApplication1\ConsoleApplication1.cpp(106,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MSI Katana\Desktop\project1\project1\ConsoleApplication1\ConsoleApplication1.cpp(114,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\MSI Katana\Desktop\project1\project1\x64\Debug\ConsoleApplication1.exe
